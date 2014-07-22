@@ -11,7 +11,7 @@ Set-ExecutionPolicy RemoteSigned
 ```
 
 ## Module Import
-### PowerShell 3.0-
+### PowerShell 3.0- ( Win8 - )
 
 make  one of the following directory, and put Invoke-VoiceTextWebAPI.psm1
 
@@ -21,7 +21,7 @@ C:\Program Files\WindowsPowerShell\Modules\Invoke-VoiceTextWebAPI\Invoke-VoiceTe
 C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Invoke-VoiceTextWebAPI\Invoke-VoiceTextWebAPI.psm1
 ```
 
-### PowerShell - 2.0
+### PowerShell - 2.0 ( Win7 and other old Windows OS )
 
 run the following in addition to the PS 3.0-
 
