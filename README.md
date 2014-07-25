@@ -4,7 +4,7 @@ for using the  [VoiceText Web API beta](https://cloud.voicetext.jp/)  for PowerS
 
 ## Set Execution Policy
 
-run as Administrator the following command.
+run the following command as Administrator.
 
 ```
 Set-ExecutionPolicy RemoteSigned
@@ -13,7 +13,7 @@ Set-ExecutionPolicy RemoteSigned
 ## Module Import
 ### PowerShell 3.0- ( Win8 - )
 
-make  one of the following directory, and put Invoke-VoiceTextWebAPI.psm1
+make one of the following directory, and put Invoke-VoiceTextWebAPI.psm1
 
 ```
 $env:USERPROFILE\Documents\WindowsPowerShell\Modules\Invoke-VoiceTextWebAPI\Invoke-VoiceTextWebAPI.psm1
